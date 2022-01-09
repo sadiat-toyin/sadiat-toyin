@@ -1,6 +1,9 @@
 ### Hi there, I'm Ubaydah👋
 🌱 I’m currently learning Python and Javascript development.
-👯 I’m looking to collaborate on Python and Javascipt related projects 
+
+👯 I’m looking to collaborate on Python and Javascipt related projects
+
+📫 Follow me on Hashnode for dev related contents https://ubaydah.hashnode.dev/
 
 <!--
 **Ubaydah/Ubaydah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
