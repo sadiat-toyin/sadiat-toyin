@@ -17,7 +17,7 @@
 - [Basic Terminologies used in Database Design](https://ubaydah.hashnode.dev/basic-terminologies-used-in-database-design)
 - [Different ways of making Queries to Django Database](https://ubaydah.hashnode.dev/different-ways-of-making-queries-to-django-database)
 
-
+## 📈 GitHub Stats
 
 ![Ubaydah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ubaydah&show_icons=true&theme=radical&count_private=true)
 
