@@ -3,13 +3,28 @@
 
 👯 I’m looking to collaborate on Python and Javascript related projects
 
-📫 Follow me on Hashnode for dev related contents https://ubaydah.hashnode.dev/
+📫 How to reach me: 
+ - Social Media
+ 	  - [Twitter](https://twitter.com/ubay_dah17) | [LinkedIn](https://www.linkedin.com/in/ubaydah-abdulwasiu-924117197/)
+ - Blogs
+    - [Hashnode](https://ubaydah.hashnode.dev/) | [Medium](https://medium.com/@abdulwasiuubaydah) | [Tealfeed](https://tealfeed.com/ubaydah)
 
-📫 How to reach me: Twitter @ubaydah_17
+😄 Pronouns: She/Her
 
-![Ubaydah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ubaydah&show_icons=true&theme=dark&count_private=true)
+## Recent Blogposts on Hashnode 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaydah)](https://github.com/Ubaydah/github-readme-stats)
+- [Three ways to validate data in Django Serializers](https://ubaydah.hashnode.dev/three-ways-to-validate-data-in-django-serializers)
+- [Basic Terminologies used in Database Design](https://ubaydah.hashnode.dev/basic-terminologies-used-in-database-design)
+- [Different ways of making Queries to Django Database](https://ubaydah.hashnode.dev/different-ways-of-making-queries-to-django-database)
+
+
+
+![Ubaydah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ubaydah&show_icons=true&theme=radical&count_private=true)
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaydah&layout=compact&theme=radical)](https://github.com/Ubaydah/github-readme-stats)
+
+
 
 
 
