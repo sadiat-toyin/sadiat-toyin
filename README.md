@@ -13,10 +13,11 @@
 
 ## Recent Blogposts on Hashnode 
 
+- [Automate email sending in Python using Github Actions](https://ubaydah.hashnode.dev/how-to-use-github-actions-to-automate-email-sending-in-python)
 - [How to integrate paystack in Django rest framework](https://ubaydah.hashnode.dev/how-to-integrate-paystack-in-django-rest-framework)
 - [Three ways to validate data in Django Serializers](https://ubaydah.hashnode.dev/three-ways-to-validate-data-in-django-serializers)
 - [Basic Terminologies used in Database Design](https://ubaydah.hashnode.dev/basic-terminologies-used-in-database-design)
-- [Different ways of making Queries to Django Database](https://ubaydah.hashnode.dev/different-ways-of-making-queries-to-django-database)
+
 
 ## 📈 GitHub Stats
 
