@@ -7,7 +7,7 @@
  - Social Media
  	  - [Twitter](https://twitter.com/ubay_dah17) | [LinkedIn](https://www.linkedin.com/in/ubaydah-abdulwasiu-924117197/)
  - Blogs
-    - [Hashnode](https://ubaydah.hashnode.dev/) | [Medium](https://medium.com/@abdulwasiuubaydah) | [Tealfeed](https://tealfeed.com/ubaydah)
+    - [Hashnode](https://ubaydah.hashnode.dev/) | [Medium](https://medium.com/@abdulwasiuubaydah) 
 
 😄 Pronouns: She/Her
 
