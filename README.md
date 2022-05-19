@@ -19,13 +19,6 @@
 - [Basic Terminologies used in Database Design](https://ubaydah.hashnode.dev/basic-terminologies-used-in-database-design)
 
 
-## 📈 GitHub Stats
-
-![Ubaydah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ubaydah&show_icons=true&theme=radical&count_private=true)
-
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaydah&layout=compact&theme=radical)](https://github.com/Ubaydah/github-readme-stats)
-
 
 
 
