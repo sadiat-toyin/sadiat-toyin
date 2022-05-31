@@ -13,6 +13,7 @@
 
 ## Recent Blogposts on Hashnode 
 
+- [Docker Architecture](https://ubaydah.hashnode.dev/docker-architecture-and-basic-terms-used-in-docker-technology)
 - [Introduction to Docker](https://ubaydah.hashnode.dev/introduction-to-docker)
 - [Automate email sending in Python using Github Actions](https://ubaydah.hashnode.dev/how-to-use-github-actions-to-automate-email-sending-in-python)
 - [How to integrate paystack in Django rest framework](https://ubaydah.hashnode.dev/how-to-integrate-paystack-in-django-rest-framework)
