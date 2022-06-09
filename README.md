@@ -28,7 +28,8 @@
 ## Top Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaydah&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+## Github Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ubaydah&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
