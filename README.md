@@ -23,13 +23,12 @@
 
 
 ## Github Stats 
-[![Ubaydah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ubaydah)](https://github.com/anuraghazra/github-readme-stats)
+[![Ubaydah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ubaydah&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaydah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaydah&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Wakatime Coding stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ubaydah)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
