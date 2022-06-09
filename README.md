@@ -13,6 +13,7 @@
 
 ## Recent Blogposts on Hashnode 
 
+- [Implementing API in Django Rest Framework to upload and store Images in cloudinary](https://ubaydah.hashnode.dev/implementing-api-in-django-rest-framework-to-upload-and-store-images-in-cloudinary)
 - [Docker Architecture](https://ubaydah.hashnode.dev/docker-architecture-and-basic-terms-used-in-docker-technology)
 - [Introduction to Docker](https://ubaydah.hashnode.dev/introduction-to-docker)
 - [Automate email sending in Python using Github Actions](https://ubaydah.hashnode.dev/how-to-use-github-actions-to-automate-email-sending-in-python)
@@ -21,7 +22,14 @@
 
 
 
+## Github Stats 
+[![Ubaydah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ubaydah)](https://github.com/anuraghazra/github-readme-stats)
 
+## Top Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaydah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Wakatime Coding stats
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ubaydah)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
