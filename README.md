@@ -1,7 +1,7 @@
 ### Hi there, I'm Ubaydah👋
 🌱 I’m currently learning Backend Development in Golang and Data strcutures and Algorithms in Python 
 
-👯 I’m looking to collaborate on Python and Golang  related projects
+👯 I’m looking to collaborate on Python related projects
 
 📫 How to reach me: 
  - Social Media
