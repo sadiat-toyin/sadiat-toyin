@@ -13,12 +13,12 @@
 
 ## Recent Blogposts on Hashnode 
 
+- [Building a Blog Service with FastAPI and Redis-OM](https://ubaydah.hashnode.dev/building-a-blog-service-with-fastapi-and-redis-om)
 - [Implementing API in Django Rest Framework to upload and store Images in cloudinary](https://ubaydah.hashnode.dev/implementing-api-in-django-rest-framework-to-upload-and-store-images-in-cloudinary)
 - [Docker Architecture](https://ubaydah.hashnode.dev/docker-architecture-and-basic-terms-used-in-docker-technology)
 - [Introduction to Docker](https://ubaydah.hashnode.dev/introduction-to-docker)
 - [Automate email sending in Python using Github Actions](https://ubaydah.hashnode.dev/how-to-use-github-actions-to-automate-email-sending-in-python)
 - [How to integrate paystack in Django rest framework](https://ubaydah.hashnode.dev/how-to-integrate-paystack-in-django-rest-framework)
-- [Three ways to validate data in Django Serializers](https://ubaydah.hashnode.dev/three-ways-to-validate-data-in-django-serializers)
 
 
 
