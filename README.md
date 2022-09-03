@@ -59,10 +59,6 @@
 - [Automate email sending in Python using Github Actions](https://ubaydah.hashnode.dev/how-to-use-github-actions-to-automate-email-sending-in-python)
 - [How to integrate paystack in Django rest framework](https://ubaydah.hashnode.dev/how-to-integrate-paystack-in-django-rest-framework)
 
- <h3>Support Me</h3>
-        <a href="https://www.buymeacoffee.com/ubaydah17"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/><br><br>
-        
-
 ## Connect with me:
 
 <p align="left">
