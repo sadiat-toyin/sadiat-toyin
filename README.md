@@ -1,7 +1,7 @@
-### Hi there, I'm Ubaydah👋
-🌱 I’m currently learning Backend Development in Golang and Data strcutures and Algorithms in Python 
+### Hi there, I'm Sadiat👋
+🌱 I’m currently learning Frontend Development using React Js
 
-👯 I’m looking to collaborate on Python and Golang related projects
+👯 I’m looking to collaborate on Frontend related projects and open to jobs and internships opportunities.
 
 
 ## Languages, Frameworks and Tools i use:
@@ -50,30 +50,21 @@
   </td>
   </table>
 
-## Recent Blogposts on Hashnode 
-
-- [Building a Blog Service with FastAPI and Redis-OM](https://ubaydah.hashnode.dev/building-a-blog-service-with-fastapi-and-redis-om)
-- [Implementing API in Django Rest Framework to upload and store Images in cloudinary](https://ubaydah.hashnode.dev/implementing-api-in-django-rest-framework-to-upload-and-store-images-in-cloudinary)
-- [Docker Architecture](https://ubaydah.hashnode.dev/docker-architecture-and-basic-terms-used-in-docker-technology)
-- [Introduction to Docker](https://ubaydah.hashnode.dev/introduction-to-docker)
-- [Automate email sending in Python using Github Actions](https://ubaydah.hashnode.dev/how-to-use-github-actions-to-automate-email-sending-in-python)
-- [How to integrate paystack in Django rest framework](https://ubaydah.hashnode.dev/how-to-integrate-paystack-in-django-rest-framework)
-
 ## Connect with me:
 
 <p align="left">
-  <a href = "https://www.linkedin.com/in/ubaydah/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ubay_dah17"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href = "https://www.linkedin.com/in/sadiat-moshood-962b3b243/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/@minaret1119"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
 ## Github Stats 
-[![Ubaydah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ubaydah&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sadiat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiat-toyin&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaydah&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiat-toyin&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ubaydah&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadiat-toyin&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
