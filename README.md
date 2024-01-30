@@ -42,7 +42,7 @@
 
 <p align="left">
   <a href = "https://www.linkedin.com/in/sadiat-moshood-962b3b243/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/@minaret1119"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.twitter.com/@sadiatmoshood04"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
 ## Github Stats 
